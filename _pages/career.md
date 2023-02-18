@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Career"
+title: "Car1eer"
 layout: career
 permalink: /career/
 author_profile: true
