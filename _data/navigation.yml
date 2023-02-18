@@ -9,10 +9,10 @@ main:
   - title: "Search"
     url: /search/
 
-  docs:
-    - title: "home_main"
-      children:
-        - title: "Category"
-          url: /categories/
-        - title: "Tag"
-          url: /tags/
+  # docs:
+  #   - title: "home_main"
+  #     children:
+  #       - title: "Category"
+  #         url: /categories/
+  #       - title: "Tag"
+  #         url: /tags/
