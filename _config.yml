@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ENTP 개발자"
+title                    : "ENTP Developer"
 title_separator          : "|"
 subtitle                 : "Self-Improvement is the Best Investment"
 name                     : "Code Kang"
