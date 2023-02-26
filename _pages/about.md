@@ -6,12 +6,20 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
+# 프로필
+![image](/assets/images/kangminsu.jpg)
+{: .align-left} 
+- Name: 강 민 수
+- E-mail: ziz1945@naver.com
+- 전: 인하대학교 전기컴퓨터공학과 석사 졸
+- 현: 현대오토에버 내비선행개발팀
+
+
+
 # 2018
-![image](https://user-images.githubusercontent.com/45550607/102208312-9b284180-3f12-11eb-8467-7b5ea1779ac7.png)
-{: .align-left}
-왼쪽 정렬입니다. 원하는 이미지를 원하는 위치에서 표출할 수 있는 예시입니다.
-해당 출처는 minimal mistakes의 공식 사이트에 나와있는 글을 참조했습니다. 
-그 중에서 제가 자주 사용하는 내용만 가져왔습니다.
+
+
+
 
 # 2019
 ![image](https://user-images.githubusercontent.com/45550607/102208312-9b284180-3f12-11eb-8467-7b5ea1779ac7.png)
